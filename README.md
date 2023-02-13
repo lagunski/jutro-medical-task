@@ -8,7 +8,13 @@ First, run the graphql-codegen:
 npx graphql-codegen
 ```
 
-Second, run the development server:
+Second, run the build:
+
+```
+npm run build
+```
+
+Third, run the development server:
 
 ```bash
 npm run dev
